@@ -4,27 +4,32 @@ Arithmetic Operations: A simple calculator for performing addition, subtraction,
 Celsius to Fahrenheit Conversion: A program to convert temperature from Celsius to Fahrenheit.
 Table of Contents
 
-About the Project
-Files Included
-Getting Started
-Usage
-License
+. About the Project
+. Files Included
+. Getting Started
+. Usage
+. License
 
-About the Project
+About the Project :
+
 These C programs are designed for beginners to practice fundamental programming concepts like arithmetic operations, temperature conversion, input/output, and simple logic handling in C.
 
-Arithmetic Operations
+Arithmetic Operations :
+
 The arithmetic program allows users to choose an operation (addition, subtraction, multiplication, division) and then performs it on two user-provided numbers.
 
-Celsius to Fahrenheit Conversion
+Celsius to Fahrenheit Conversion :
+
 This program converts a temperature from Celsius to Fahrenheit using the formula: F = C*9/5+32
 
-Files Included
+Files Included :
+
 arithmetic.c - The C program file for performing arithmetic operations.
 celsius_to_fahrenheit.c - The C program file for converting Celsius to Fahrenheit.
 README.md - This README file.
 
-Getting Started
+Getting Started :
+
 To get a local copy up and running, follow these steps:
 
 Prerequisites
@@ -48,7 +53,9 @@ git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
 
 Usage
+
 Running Arithmetic Operations Program
+
 1. Compile the arithmetic.c file:
 
 gcc arithmetic.c -o arithmetic
@@ -56,6 +63,7 @@ gcc arithmetic.c -o arithmetic
 2. Run the program:
 
 ./arithmetic
+
 3. Follow the prompts to choose an operation and input numbers.
 
 Running Celsius to Fahrenheit Conversion Program
@@ -70,5 +78,5 @@ gcc celsius_to_fahrenheit.c -o celsius_to_fahrenheit
 
 3. Enter the Celsius temperature when prompted to see the Fahrenheit result.
 
-License
+License :
 Distributed under the MIT License. See LICENSE for more information.
