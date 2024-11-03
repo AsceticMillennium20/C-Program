@@ -7,9 +7,13 @@ Celsius to Fahrenheit Conversion: A program to convert temperature from Celsius 
 Table of Contents
 
 . About the Project
+
 . Files Included
+
 . Getting Started
+
 . Usage
+
 . License
 
 About the Project :
@@ -27,7 +31,9 @@ This program converts a temperature from Celsius to Fahrenheit using the formula
 Files Included :
 
 arithmetic.c - The C program file for performing arithmetic operations.
+
 celsius_to_fahrenheit.c - The C program file for converting Celsius to Fahrenheit.
+
 README.md - This README file.
 
 Getting Started :
@@ -35,10 +41,13 @@ Getting Started :
 To get a local copy up and running, follow these steps:
 
 Prerequisites
+
 You need a C compiler to run these programs. You can install GCC as follows:
 
 Windows: Download and install MinGW.
+
 MacOS: Install Xcode command-line tools with xcode-select --install.
+
 Linux: Install GCC with the following command:
 
 sudo apt update
@@ -81,4 +90,5 @@ gcc celsius_to_fahrenheit.c -o celsius_to_fahrenheit
 3. Enter the Celsius temperature when prompted to see the Fahrenheit result.
 
 License :
+
 Distributed under the MIT License. See LICENSE for more information.
