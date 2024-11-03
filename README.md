@@ -53,7 +53,7 @@ Running Arithmetic Operations Program
 
 gcc arithmetic.c -o arithmetic
 
-2.Run the program:
+2. Run the program:
 
 ./arithmetic
 3. Follow the prompts to choose an operation and input numbers.
