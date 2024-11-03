@@ -1,7 +1,9 @@
 This repository contains two basic C programs:
 
 Arithmetic Operations: A simple calculator for performing addition, subtraction, multiplication, and division.
+
 Celsius to Fahrenheit Conversion: A program to convert temperature from Celsius to Fahrenheit.
+
 Table of Contents
 
 . About the Project
