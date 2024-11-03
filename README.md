@@ -67,6 +67,8 @@ gcc celsius_to_fahrenheit.c -o celsius_to_fahrenheit
 2. Run the program:
 
 ./celsius_to_fahrenheit
+
 3. Enter the Celsius temperature when prompted to see the Fahrenheit result.
+
 License
 Distributed under the MIT License. See LICENSE for more information.
