@@ -1,10 +1,12 @@
 This repository contains two basic C programs:
 
-Arithmetic Operations: A simple calculator for performing addition, subtraction, multiplication, and division.
+Arithmetic Operations : A simple calculator for performing addition, subtraction, multiplication, and division.
 
-Celsius to Fahrenheit Conversion: A program to convert temperature from Celsius to Fahrenheit.
+Celsius to Fahrenheit Conversion : A program to convert temperature from Celsius to Fahrenheit.
 
-Table of Contents
+Leap Year Checker : A simple program to determine whether a given year is a leap year.
+
+Alphabet or Numeric Checker : A simple program to find the given input is numeric or alphabets
 
 . About the Project
 
@@ -28,11 +30,19 @@ Celsius to Fahrenheit Conversion :
 
 This program converts a temperature from Celsius to Fahrenheit using the formula: F = C*9/5+32
 
+Leap Year Checker :
+
+This repository contains C programs that determine whether a given year is a leap year. The program accepts both numeric and alphabetic inputs.
+
+Alphabet or Numeric Checker : This repository contains a C program that determines whether the given input is an alphabet (A-Z, a-z) or a numeric digit (0-9).
+
 Files Included :
 
 arithmetic.c - The C program file for performing arithmetic operations.
 
 celsius_to_fahrenheit.c - The C program file for converting Celsius to Fahrenheit.
+
+leapyear.c - The C program file for finding the leap year.
 
 README.md - This README file.
 
@@ -88,6 +98,30 @@ gcc celsius_to_fahrenheit.c -o celsius_to_fahrenheit
 ./celsius_to_fahrenheit
 
 3. Enter the Celsius temperature when prompted to see the Fahrenheit result.
+
+Running to find leap year
+
+1. Compile the leapyear.c file:
+
+gcc leapyear.c -o leapyear
+
+2. Run the program:
+
+./leapyear
+
+3. Follow the prompts to choose an operation and input numbers.
+
+Running to find Alphabet or Numeric Checker
+
+1. Compile the aplphabet.c file:
+
+gcc alphabet.c -o alphabet
+
+2. Run the program:
+
+./alphabet
+
+3. Follow the prompts to choose an operation and input numbers.
 
 License :
 
