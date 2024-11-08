@@ -44,6 +44,8 @@ celsius_to_fahrenheit.c - The C program file for converting Celsius to Fahrenhei
 
 leapyear.c - The C program file for finding the leap year.
 
+alphabet.c - The C program file for finding the input is numeric or alphabet.
+
 README.md - This README file.
 
 Getting Started :
